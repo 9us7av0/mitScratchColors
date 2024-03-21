@@ -5,7 +5,7 @@ Convert colors in hex format into MIT Scratch's (modified HSV format) Color and 
 Pre-requisites: install https://pypi.org/project/colorutils/
 
 Usage:
-python hex2hsv <input file> 
+python hex2Scratch <input file> 
 
 Where input file is a text file with a list of one or more colors in hex format, one per line.
 
